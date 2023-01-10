@@ -12,7 +12,7 @@ They also have pretty good [documentation](very_good_cli_documentation) about us
 
 ## [mason_logger](mason_logger)
 
-This is yet another package from Very Good Venture. This package is more than just a logger. This package allows you to accept user inputs and a lot of other cool things.
+This is yet another package from Very Good Ventures. The package is more than just a logger and allows you to accept user inputs and will help you to build lot of other cool things.
 
 Some feature are:
 
