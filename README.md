@@ -53,8 +53,13 @@ This library contains a variety of useful functions for console application deve
 - Writing aligned text to the screen
 - Tabular data display, including month calendar
 
-The [example](dart_console_example) folder of this pacakge contains all the necessary implemetnations to understand the pacakge.
+The [example](dart_console_example) folder of this pacakge contains all the necessary implementations to understand the pacakge.
 
+## [cli_completion](cli_completion)
+
+Dart package that aims to enable Dart CLI applications to receive shell completions with minimal setup. This package helps you to enhance the user experiance of your CLI tools.
+
+It works on bash and zsh on Linux, macOS, and Windows.
 
 [very_good_cli]: https://pub.dev/packages/very_good_cli
 [very_good_cli_documentation]: https://verygood.ventures/blog/generate-command-line-application-cli
@@ -64,3 +69,4 @@ The [example](dart_console_example) folder of this pacakge contains all the nece
 [pubspec_parse]: https://pub.dev/packages/pubspec_parse
 [dart_console]: https://pub.dev/packages/dart_console
 [dart_console_example]: https://github.com/timsneath/dart_console/tree/main/example
+[cli_completion]: https://pub.dev/packages/cli_completion
