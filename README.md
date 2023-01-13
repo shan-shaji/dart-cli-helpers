@@ -9,7 +9,7 @@ Generate a Dart CLI with Very Good CLI. If you are making a CLI package for the 
 They also have pretty good [documentation](very_good_cli_documentation) about using this template.
 
 
-## [mason_logger](mason_logger)
+## [mason_logger][mason_logger]
 
 The package is more than just a logger and allows you to accept user inputs and will help you to build lot of other cool things. 
 
