@@ -8,7 +8,6 @@ The repo contains a collection of packages that will assist you in developing CL
 Generate a Dart CLI with Very Good CLI. If you are making a CLI package for the first time this is the needed tool for you.
 They also have pretty good [documentation][very_good_cli_documentation] about using this template.
 
-
 ## [mason_logger][mason_logger]
 
 The package is more than just a logger and allows you to accept user inputs and will help you to build lot of other cool things. 
@@ -70,4 +69,3 @@ It works on bash and zsh on Linux, macOS, and Windows.
 [dart_console]: https://pub.dev/packages/dart_console
 [dart_console_example]: https://github.com/timsneath/dart_console/tree/main/example
 [cli_completion]: https://pub.dev/packages/cli_completion
-
