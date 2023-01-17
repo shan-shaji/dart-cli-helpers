@@ -68,6 +68,9 @@ Parses raw command-line arguments into a set of options and values. This library
 
 In particular, cli_util provides a simple, standardized way to get the current SDK directory. Useful, especially, when building client applications that interact with the Dart SDK
 
+This package can also be used to help CLI tools display output and progress. It has a logging mechanism which can help differentiate between regular tool output and error messages, and can facilitate having a more verbose (-v) mode for output.
+
+In addition, it can display an indeterminate progress spinner for longer running tasks, and optionally display the elapsed time when finished:
 
 [very_good_cli]: https://pub.dev/packages/very_good_cli
 [very_good_cli_documentation]: https://verygood.ventures/blog/generate-command-line-application-cli
