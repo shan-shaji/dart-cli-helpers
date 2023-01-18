@@ -64,6 +64,9 @@ It works on bash and zsh on Linux, macOS, and Windows.
 
 Parses raw command-line arguments into a set of options and values. This library supports GNU and POSIX style options, and it works in both server-side and client-side apps.
 
+## [cli_util][cli_util]
+
+In particular, cli_util provides a simple, standardized way to get the current SDK directory. Useful, especially, when building client applications that interact with the Dart SDK
 
 
 [very_good_cli]: https://pub.dev/packages/very_good_cli
@@ -76,3 +79,4 @@ Parses raw command-line arguments into a set of options and values. This library
 [dart_console_example]: https://github.com/timsneath/dart_console/tree/main/example
 [cli_completion]: https://pub.dev/packages/cli_completion
 [args]: https://pub.dev/packages/args
+[cli_util]: https://pub.dev/packages/cli_util
