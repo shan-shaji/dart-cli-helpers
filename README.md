@@ -60,9 +60,11 @@ Dart package that aims to enable Dart CLI applications to receive shell completi
 
 It works on bash and zsh on Linux, macOS, and Windows.
 
-#### [args][args]
+## [args][args]
 
 Parses raw command-line arguments into a set of options and values. This library supports GNU and POSIX style options, and it works in both server-side and client-side apps.
+
+
 
 [very_good_cli]: https://pub.dev/packages/very_good_cli
 [very_good_cli_documentation]: https://verygood.ventures/blog/generate-command-line-application-cli
